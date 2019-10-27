@@ -7,4 +7,4 @@ var isAnagram = function(s, t) {
 
 function analyseStr (str) {
     return str.split('').sort().join('');
-}
+} 
